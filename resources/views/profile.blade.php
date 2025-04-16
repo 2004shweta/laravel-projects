@@ -17,5 +17,6 @@
 </head>
 <body>
     <h1>My name {{ $name }} and my age  {{$age}}</h1>
+    <a  href='rout("home")'>Home</a>
 </body>
 </html>
